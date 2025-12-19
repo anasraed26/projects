@@ -2,41 +2,41 @@
   {
     "id": 1,
     "title": "Cosmic Portfolio",
-    "description": "The immersive 3D experience you are exploring right now. Built with React.ts, Framer Motion, Tailwind CSS, and custom WebGL shaders for high-performance interactive visuals.",
+    "description": "The immersive 3D experience you are exploring right now. Built with React, TypeScript, Tailwind CSS, TanStack Query, and custom WebGL shaders for high-performance interactive visuals.",
     "image": "https://raw.githubusercontent.com/anasraed26/projects/main/cosmicportfolio.webp",
     "color": "#60A5FA",
-    "repoUrl": "https://github.com/anasraed26/portfolio"
+    "repoUrl": "https://github.com/anasraed26/portfolio2.0"
   },
   {
     "id": 2,
     "title": "VanLife",
-    "description": "A full-stack van rental platform allowing users to explore and book travel vans. Powered by React Router for seamless navigation and Firebase for real-time database and authentication.",
+    "description": "A full-stack van rental platform allowing users to explore and book travel vans. Powered by React Router for seamless navigation and Firebase for a real-time database and authentication system.",
     "image": "https://raw.githubusercontent.com/anasraed26/projects/main/vanlife.webp",
     "color": "#F97316",
-    "repoUrl": "https://github.com/anasraed26/vanlife"
+    "repoUrl": "https://github.com/anasraed26/Vanlife"
   },
   {
     "id": 3,
     "title": "Chef Claude",
-    "description": "An AI-powered culinary assistant that helps users generate recipes from available ingredients. Developed using React.js with robust API fetching and state management.",
+    "description": "An AI-powered culinary assistant that generates recipes from available ingredients. Developed using React.js with robust API fetching to communicate with LLMs.",
     "image": "https://raw.githubusercontent.com/anasraed26/projects/main/ChefClaude.webp",
     "color": "#10B981",
-    "repoUrl": "https://github.com/anasraed26/chef-claude"
+    "repoUrl": "https://github.com/anasraed26/claudeChef"
   },
   {
     "id": 4,
-    "title": "KFC Landing Page",
+    "title": "KFC App",
     "description": "A pixel-perfect functional clone of the KFC interface. Built entirely with Vanilla JavaScript and CSS to master fundamental DOM manipulation and responsive layout techniques.",
     "image": "https://raw.githubusercontent.com/anasraed26/projects/main/KFCapp.webp",
     "color": "#EF4444",
-    "repoUrl": "https://github.com/anasraed26/kfc-clone"
+    "repoUrl": "https://github.com/anasraed26/KFC-app"
   },
   {
     "id": 5,
-    "title": "Old Portfolio",
+    "title": "Legacy Portfolio",
     "description": "My previous developer portfolio. Built with standard React and CSS, it represents my journey in component-based architecture before migrating to WebGL-enhanced interfaces.",
     "image": "https://raw.githubusercontent.com/anasraed26/projects/main/oldPortfolio.webp",
     "color": "#8B5CF6",
-    "repoUrl": "https://github.com/anasraed26/old-portfolio"
+    "repoUrl": "https://github.com/anasraed26/my-portofolio"
   }
 ]
