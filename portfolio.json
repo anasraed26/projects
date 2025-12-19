@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cosmic Portfolio",
+    "description": "The 3D interactive portfolio you are looking at right now. Built with React, Framer Motion, and WebGL shaders.",
+    "image": "PASTE_YOUR_RAW_IMAGE_LINK_HERE",
+    "color": "#60A5FA",
+    "repoUrl": "https://github.com/Anas/portfolio"
+  },
+  {
+    "id": 2,
+    "title": "Neon Dashboard",
+    "description": "A high-performance analytics dashboard featuring real-time data visualization and a cyberpunk aesthetic.",
+    "image": "PASTE_YOUR_RAW_IMAGE_LINK_HERE",
+    "color": "#C026D3",
+    "repoUrl": "https://github.com/Anas/neon-dash"
+  },
+  {
+    "id": 3,
+    "title": "Solar Flare",
+    "description": "Browser-based arcade shooter utilizing HTML5 Canvas and advanced particle physics engines.",
+    "image": "PASTE_YOUR_RAW_IMAGE_LINK_HERE",
+    "color": "#F59E0B",
+    "repoUrl": "https://github.com/Anas/solar-flare"
+  }
+]
